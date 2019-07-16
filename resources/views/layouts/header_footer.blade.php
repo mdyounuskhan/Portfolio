@@ -91,11 +91,7 @@
                         <p>Donec vitae purus nunc. Morbi faucibus erat sit amet congue mattis. Nullam fringilla faucibus
                             urna, id dapibus erat iaculis ut. Integer ac sem.</p>
                         <div class="cards">
-                            <img src="{{asset('frontend')}}/img/cards/5.png" alt="">
-                            <img src="{{asset('frontend')}}/img/cards/4.png" alt="">
-                            <img src="{{asset('frontend')}}/img/cards/3.png" alt="">
-                            <img src="{{asset('frontend')}}/img/cards/2.png" alt="">
-                            <img src="{{asset('frontend')}}/img/cards/1.png" alt="">
+                            <img src="{{asset('frontend')}}/img/cards/card.png" alt="">
                         </div>
                     </div>
                 </div>
