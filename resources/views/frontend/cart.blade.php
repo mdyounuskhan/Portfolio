@@ -55,7 +55,7 @@
 							<td class="quy-col">
 								<div class="quy-input">
 									<span>Qty</span>
-									<input type="number" name="product_quantity[{{$cart_item->id}}]" value="{{ $cart_item->product_quantity }}">
+									<input type="number" min="1"name="product_quantity[{{$cart_item->id}}]" value="{{ $cart_item->product_quantity }}">
 								</div>
                             </td>
                             @php
